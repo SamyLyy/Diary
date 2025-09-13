@@ -21,6 +21,5 @@ Nothing big, but Git was a bit confusing at the beginning and I still don’t un
 Not only tomorrow, but in general I’m going to make a HTML only Website to test my Basics. Because Building is more important than theory.
 
 
-
 My Notion Template I mentioned: https://magnetic-wall-787.notion.site/Coding-Public-26d4a1ba5d4680a0af2ad2cb4b8abfb4
 
